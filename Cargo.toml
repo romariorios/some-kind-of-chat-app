@@ -1,0 +1,7 @@
+[package]
+name = "some-kind-of-chat-app"
+version = "0.1.0"
+authors = ["Luiz Romário Santana Rios <luizromario@gmail.com>"]
+
+[dependencies]
+qmlrs = "0.1.1"
